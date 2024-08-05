@@ -47,7 +47,7 @@ Keep in mind the word limit.
 > - Use the network diagram from Packet Tracer as part of the report.
 > - The *Talking Points* section can be written as dot points. However the remainder of the document should be paragraphed.
 
-# General Advice
+# General Advice 
 
 > [!info] Use your in-class project as the main resource
 
