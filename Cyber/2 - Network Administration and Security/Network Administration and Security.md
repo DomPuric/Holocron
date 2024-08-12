@@ -15,10 +15,10 @@ tags:
 > [!info]- Week 1
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
-> - [x] [CloneHolocron](_sharedContent/CloneHolocron.md)
-> - [x] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Accept%20Assignment.md)
+> - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
+> - [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Accept%20Assignment.md)
 > #### Theory
-> - [x] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Overview.md)
+> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Overview.md)
 > - [ ] [Technical Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Technical%20Requirements.md)
 > #### Practical
 > N/A
